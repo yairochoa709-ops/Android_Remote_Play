@@ -1,0 +1,23 @@
+# Node
+node_modules/
+dist/
+build/
+.env
+
+# Android Studio / Gradle
+.idea/
+.gradle/
+local.properties
+*.iml
+*.apk
+frontend/android/.gradle/
+frontend/android/app/build/
+frontend/android/build/
+frontend/android/local.properties
+
+# Backend
+backend/platform-tools/
+
+# OS Files
+.DS_Store
+Thumbs.db
