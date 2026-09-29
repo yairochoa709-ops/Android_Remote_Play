@@ -30,5 +30,5 @@ Una aplicación PWA y nativa de Android para controlar dispositivos Android TV d
 1. Abrir `frontend/android` en Android Studio.
 2. Ejecutar `Build > Build Bundle(s) / APK(s) > Build APK(s)`.
 
-### Link Apk (Descraga directa en Android)
+### Link APK (Descarga directa en Android)
  https://drive.google.com/file/d/1u1Ndcyx6JjYcM-lcld1sb-3yk3xmC5QW/view?usp=sharing
